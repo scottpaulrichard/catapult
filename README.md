@@ -38,7 +38,7 @@ Terraform file that will stand up the machine and configure the thing to be acce
     private_key_path = "path_to_your_private_key"
 
 
-Run the following command in the base directory of vent to see the plan for what will be done:
+Run the following command in the base directory of catapult to see the plan for what will be done:
 
     terraform plan
 
